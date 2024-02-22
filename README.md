@@ -54,5 +54,6 @@ Veri seti, eğitim ve test olarak iki bölüme ayrılmıştır. Eğitim veri set
 
 - Karışıklık Matrisi: Modelin sınıflandırma performansını görselleştirmek için bir karışıklık matrisi oluşturulmuştur.
 - GradCAM Görselleştirmeleri: Modelin sınıflandırma yaparken odaklandığı bölgeleri görselleştirmek için GradCAM tekniği kullanılmıştır.
+<img src="https://github.com/AbdulbariSoylemez/ExplainableShoesProject/blob/main/Vgg16output2.png" alt="Description">
 
 
