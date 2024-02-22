@@ -27,6 +27,7 @@ Veri seti, Kaggle platformundan alınmış ve manuel olarak etiketlenmiştir. Ve
 
 - Karışıklık Matrisi: Modelin sınıflandırma performansını görselleştirmek için bir karışıklık matrisi oluşturulmuştur.
 - GradCAM Görselleştirmeleri: Modelin sınıflandırma yaparken odaklandığı bölgeleri görselleştirmek için GradCAM tekniği kullanılmıştır.
+- <img src="https://github.com/AbdulbariSoylemez/ExplainableShoesProject/blob/main/ResNetCikti/Resnet50output2.png" alt="Description">
 
 ## Vgg16 ile Explainable Shoes Project
 
