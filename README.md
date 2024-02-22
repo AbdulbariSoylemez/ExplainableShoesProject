@@ -57,10 +57,11 @@ Veri seti, eğitim ve test olarak iki bölüme ayrılmıştır. Eğitim veri set
 - GradCAM Görselleştirmeleri: Modelin sınıflandırma yaparken odaklandığı bölgeleri görselleştirmek için GradCAM tekniği kullanılmıştır.
 <img src="https://github.com/AbdulbariSoylemez/ExplainableShoesProject/blob/main/VggCikti/Vgg16output2.png" alt="Description">
 
-Projenin referans aldığı çalışmalara 
-[şu adresten](https://github.com/jacobgil/pytorch-grad-cam) 
-[şu adresten](https://www.youtube.com/watch?v=PDRewtcqmaI&t=3s) 
+Projenin referans aldığı çalışmalar
 
-erişebilirsiniz.
+[ https://github.com/jacobgil/pytorch-grad-cam ](https://github.com/jacobgil/pytorch-grad-cam)  
+[ https://www.youtube.com/watch?v=PDRewtcqmaI&t=3s ](https://www.youtube.com/watch?v=PDRewtcqmaI&t=3s) 
+
+
 
 
